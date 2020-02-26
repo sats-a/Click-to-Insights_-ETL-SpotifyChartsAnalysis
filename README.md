@@ -17,13 +17,14 @@ Creating an ETL and Analyzing Spotify’s Top Tracks Using Data Visualization
 ######  The data base where the data will be store is Postgres and we will using Python to clean, store , merge and analyze the data.
 
 ##### Goal
-###### Get Spotify data from diferent variaty of source such APIs, Web-scraping and Google-Scholar data-sets
+###### Get Spotify data from different variety of source such APIs, Web-scraping and Google-Scholar data-sets
 ###### Get a Large amount of data, goal is to get around 1 Million rows.
-###### Once I have identified the datasets,I will perform ETL on the data and document the following within the jpynb.
-###### The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+###### Once I have identified the datasets, I will perform ETL on the data and document the following within the jpynb.
+###### The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc.).
 ###### The type of final production database to load the data into (relational or non-relational).
 ###### The final tables or collections that will be used in the production database.
 ###### Submit a final technical report with the above information and steps required to reproduce your ETL process.
+
 
 
 ![Execution.PNG](Execution.PNG)
